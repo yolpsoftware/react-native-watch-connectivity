@@ -28,9 +28,9 @@ open ios/RNWatchExample.xcworkspace # Run watch app from Xcode
 ## Install
 
 ```bash
-npm install react-native-watch-connectivity --save
+npm install @duell10111/react-native-watch-connectivity --save
 # or
-yarn add react-native-watch-connectivity
+yarn add @duell10111/react-native-watch-connectivity
 ```
 
 ### Link
